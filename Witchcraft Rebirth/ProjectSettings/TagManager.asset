@@ -11,8 +11,8 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
+  - Ground Layer
+  - Actor Layer
   - 
   - 
   - 
@@ -40,4 +40,10 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Ground Layer
+    uniqueID: 1379379291
+    locked: 0
+  - name: Actor Layer
+    uniqueID: 781497805
     locked: 0
